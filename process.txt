@@ -1,9 +1,10 @@
-add new picker
-    on add new picker
-    get input field 
-    append on rockPickerTable
+X add new picker
+    X on add new picker
+    X get input field 
+    X append on rockPickerTable
 delete picker from DOM
-    on delete, remove table row from .rockPickerTable
+    get table with delete button, on click
+    get closest table row and remove
 add 1 rock to .numberOfRocks
 add 1 rock to .numberOfRocks
 reset .numberOfRocks to 0
